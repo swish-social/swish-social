@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Swish Social App
+title: 
 ---
-
-<img src="logo.png" alt="Swish Logo" style="width: 150px; height: auto; display: block; margin: 0 auto;"/>
 
 ## Welcome to Swish Social App
 
@@ -19,3 +17,9 @@ Swish is your ultimate social media app to connect with friends, create unforget
 Swish is designed to bring people closer, making socializing seamless and exciting. Download Swish now and start creating memories with friends, old and new!
 
 **Contact Us**: [swishsocialapp@gmail.com](mailto:swishsocialapp@gmail.com)
+
+---
+
+<footer style="text-align: center; margin-top: 20px;">
+    <img src="logo.png" alt="Swish Logo" style="width: 100px; height: 100px; border-radius: 50%;"/>
+</footer>

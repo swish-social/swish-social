@@ -3,13 +3,13 @@ layout: default
 title: Swish Social App
 ---
 
-![Swish Logo](logo.png)
+<img src="logo.png" alt="Swish Logo" style="width: 150px; height: auto; display: block; margin: 0 auto;"/>
 
-# Swish Social App
+## Welcome to Swish Social App
 
 Swish is your ultimate social media app to connect with friends, create unforgettable events, and celebrate shared interests. Whether you're planning a casual hangout, a grand celebration, or an exciting adventure, Swish makes it easy and fun to bring people together.
 
-## Key Features:
+### Key Features:
 
 - **Create and Share Events**: Effortlessly create events and share them with your friends. From parties to meetups, Swish helps you organize and manage all the details in one place.
 - **Join and Participate**: Receive invites from friends and join events that interest you. Stay updated with event details, RSVP statuses, and last-minute changes.

@@ -2,6 +2,7 @@
 layout: default
 title: 
 ---
+<img src="logo.png" alt="Swish Logo" style="width: 100px; height: 100px; border-radius: 25%;"/>
 
 ## Welcome to Swish Social App
 
@@ -20,6 +21,8 @@ Swish is designed to bring people closer, making socializing seamless and exciti
 
 ---
 
-<footer style="text-align: center; margin-top: 20px;">
-    <img src="logo.png" alt="Swish Logo" style="width: 100px; height: 100px; border-radius: 50%;"/>
-</footer>
+<style>
+  .footer {
+    display: none;
+  }
+</style>

@@ -1,3 +1,12 @@
 title: Swish Social App
 description: Connect, Create, and Celebrate with Friends
 theme: minima
+
+# Navigation links
+links:
+  - title: Home
+    url: /
+  - title: Privacy Policy
+    url: /privacy-policy/
+  - title: Terms of Service
+    url: /terms-of-service/

@@ -2,7 +2,6 @@
 layout: default
 title: 
 ---
-<img src="logo.png" alt="Swish Logo" style="width: 100px; height: 100px; border-radius: 25%;"/>
 
 ## Welcome to Swish Social App
 

@@ -2,10 +2,3 @@
 title: Swish Social App
 description: Connect, Create, and Celebrate with Friends
 theme: minima
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"

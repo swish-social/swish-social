@@ -19,9 +19,3 @@ Swish is designed to bring people closer, making socializing seamless and exciti
 **Contact Us**: [swishsocialapp@gmail.com](mailto:swishsocialapp@gmail.com)
 
 ---
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
